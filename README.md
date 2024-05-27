@@ -1,6 +1,7 @@
 # k6-parsing-error
 
 This repository is a minimal reproduction of a parsing error that occurs when trying to read a plain text response in a k6 script. **Error only occur when the response starts with leading zero.**
+[Link to the issue reported](https://github.com/grafana/k6/issues/3758).
 
 ## Prerequisites
 
