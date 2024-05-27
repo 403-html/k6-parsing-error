@@ -1,0 +1,10 @@
+{
+  "name": "k6-parsing-error",
+  "packageManager": "yarn@4.2.2",
+  "scripts": {
+    "start:mock": "node mock/mock.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
